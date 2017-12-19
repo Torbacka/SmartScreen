@@ -1,2 +1,2 @@
 # SmartScreen
-Web app som visar realtidsinformation från sl.
+Webapp som visar realtidsinformation från sl.
